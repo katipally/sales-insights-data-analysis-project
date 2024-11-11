@@ -28,4 +28,4 @@ This project analyzes sales data to provide actionable insights into revenue tre
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/katipally/sales-insights-data-analysis.git
+   git clone https://github.com/katipally/sales-insights-data-analysis-project.git
