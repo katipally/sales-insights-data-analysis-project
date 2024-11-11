@@ -29,3 +29,11 @@ This project analyzes sales data to provide actionable insights into revenue tre
 1. **Clone the Repository:**  
    ```bash
    git clone https://github.com/katipally/sales-insights-data-analysis-project.git
+
+## Contact
+- For any questions or inquiries, feel free to reach out:
+
+- Name: Yashwanth Reddy Katipally
+- Email: yashwanthreddykatipally@gmail.com
+- LinkedIn: www.linkedin.com/in/katipallyyashwanthreddy
+- GitHub: https://github.com/katipally
